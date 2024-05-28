@@ -71,6 +71,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Loop Capital | Technology Intern - Information Technology | New York, NY | <a href="https://www.loopcapital.com/careers/professionals/#paycor">
+<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 28 |
 | Ventas, Inc | Software Engineer Intern | Chicago, IL | <a href="https://ventas.wd1.myworkdayjobs.com/en-US/ventas_careers/job/Intern--Software-Engineering--Summer-2025-_R0001113"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 26 |
 | Radix Trading | Quantitative Technologist (C++ Intern) | Chicago, IL | <a href="https://boards.greenhouse.io/radixuniversity/jobs/7463231002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 25 |
 | Konrad | Software Developer Intern - May 2025 (4 months) | Canada | <a href="https://www.konrad.com/careers/job/5997801003?gh_jid=5997801003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 25 |
